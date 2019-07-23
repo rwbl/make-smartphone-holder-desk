@@ -1,5 +1,5 @@
-# makerbeam-smartphone-holder
-A smartphone holder using MakerBeam.
+# makerbeam-smartphone-holder-desk
+A smartphone holder for a desk using MakerBeam.
 
 ![rl-smartphone-holder-2](https://user-images.githubusercontent.com/47274144/61691619-3ae89c80-ad2c-11e9-9ac8-0895bc856206.png)
 
