@@ -8,18 +8,18 @@ Rather handy when developing apps or monitoring homme automation or watching new
 
 ### MakerBeam Parts
 #### Bottom
-2x Beam 100mm black (sides)
-1x Beam 60mm black (rear)
-2x L-Brackets (rear)
-2x 60°-Brackets (front)
+* 2x Beam 100mm black (sides)
+* 1x Beam 60mm black (rear)
+* 2x L-Brackets (rear)
+* 2x 60°-Brackets (front)
 
 #### Holder Bottom
-2x Beam 60mm black
-2x L-Brackets
+* 2x Beam 60mm black
+* 2x L-Brackets
 
 #### Holder Middle
-2x Beam 200mm black
+* 2x Beam 200mm black
 
 #### Holder Top
-1x Beam 600mm black
-2x L-Brackets
+* 1x Beam 600mm black
+* 2x L-Brackets
