@@ -6,3 +6,20 @@ A smartphone holder using MakerBeam.
 A fun project just to show what can be simply build using [MakeBeam](https://www.makerbeam.com/).
 Rather handy when developing apps or monitoring homme automation or watching newsfeeds and the likes.
 
+### MakerBeam Parts
+#### Bottom
+2x Beam 100mm black (sides)
+1x Beam 60mm black (rear)
+2x L-Brackets (rear)
+2x 60°-Brackets (front)
+
+#### Holder Bottom
+2x Beam 60mm black
+2x L-Brackets
+
+#### Holder Middle
+2x Beam 200mm black
+
+#### Holder Top
+1x Beam 600mm black
+2x L-Brackets
