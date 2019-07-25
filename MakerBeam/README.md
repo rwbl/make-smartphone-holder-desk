@@ -1,9 +1,9 @@
 # makerbeam-smartphone-holder-desk
-A smartphone holder for a desk using MakerBeam.
+A smartphone holder for a desk using [MakeBeam](https://www.makerbeam.com/) parts.
 
 ![rl-smartphone-holder-2](https://user-images.githubusercontent.com/47274144/61691619-3ae89c80-ad2c-11e9-9ac8-0895bc856206.png)
 
-A fun project just to show what can be simply build using [MakeBeam](https://www.makerbeam.com/).
+A fun project just to show what can be simply build using MakerBeam.
 Rather handy when developing apps or monitoring homme automation or watching newsfeeds and the likes.
 
 ### MakerBeam Parts
