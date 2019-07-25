@@ -10,7 +10,7 @@ Rather handy when developing apps or monitoring homme automation or watching new
 (see folder MakerBeam)
 
 ### LEGO Technic
-![lego-smartphone-holder-desk-02-500x800](https://user-images.githubusercontent.com/47274144/61792315-c5102e00-ae1c-11e9-9ef0-9bc1032f7723.png)
+![lego-smartphone-holder-desk-02-500x800](https://user-images.githubusercontent.com/47274144/61872374-6d88c580-aee3-11e9-8482-f445e54ec863.png)
 
 (see folder LEGO)
 
