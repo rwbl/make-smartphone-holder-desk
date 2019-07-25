@@ -1,5 +1,5 @@
 # K'NEX-smartphone-holder-desk
-A smartphone holder for a desk using [K'NEX](https://www.knex.com).
+A smartphone holder for a desk using [K'NEX](https://www.knex.com) parts.
 
 ![knex-smartphone-holder-desk-1](https://user-images.githubusercontent.com/47274144/61871932-5eedde80-aee2-11e9-8193-1ebf88962f26.png)
 ![knex-smartphone-holder-desk-2](https://user-images.githubusercontent.com/47274144/61871939-61503880-aee2-11e9-89dc-9e1a787bd9bd.png)
