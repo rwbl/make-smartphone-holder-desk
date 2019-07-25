@@ -17,7 +17,7 @@ Rather handy when developing apps or monitoring homme automation or watching new
 ### K'Nex
 ![knex-smartphone-holder-desk-1](https://user-images.githubusercontent.com/47274144/61871932-5eedde80-aee2-11e9-8193-1ebf88962f26.png)
 
-(se folder KNEX)
+(see folder KNEX)
 
 #### Tronico
 Not started.
