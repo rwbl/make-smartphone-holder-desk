@@ -1,4 +1,4 @@
-# smartphone-holder-desk
+# make-project-smartphone-holder-desk
 A fun creativity project building various Smartphone Holders to be placed on a desk.
 Rather handy when developing apps or monitoring homme automation or watching newsfeeds and the likes.
 
