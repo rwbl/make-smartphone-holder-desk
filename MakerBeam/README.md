@@ -23,3 +23,8 @@ Rather handy when developing apps or monitoring homme automation or watching new
 #### Holder Top
 * 1x Beam 600mm black
 * 2x L-Brackets
+
+A larger version to hold a tablet.
+
+![image](https://github.com/user-attachments/assets/c8d37a65-1d65-4aea-8226-4e6759ce4a22)
+
