@@ -25,5 +25,5 @@ Rather handy when developing apps or monitoring homme automation or watching new
 ## Tronico
 Not started.
 
-## Fisher-Technic
+## fischertechik
 Not started.
